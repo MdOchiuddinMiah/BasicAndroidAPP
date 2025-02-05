@@ -24,8 +24,10 @@ The **Second Activity** displays:
 
 ---
 
-## Screenshots
-(Attach screenshots of your app here)
+## Device & Emulator Details
+-Tested on: Pixel 3a Emulator
+-Android OS Version: Android 12 (API Level 31)
+-Android Studio Version: Flamingo | 2023.1.1
 
 ---
 
