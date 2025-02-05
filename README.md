@@ -28,7 +28,6 @@ The **Second Activity** displays:
 - **Tested on:** Pixel 3a Emulator
 - **Android OS Version:** Android 14 (API Level 34)
 - **Android Studio Version:** Giraffe |  2022.3.1 Patch 2
-- 
 ---
 
 ## Installation & Setup
