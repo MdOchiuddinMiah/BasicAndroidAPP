@@ -25,10 +25,10 @@ The **Second Activity** displays:
 ---
 
 ## Device & Emulator Details
-✅ Tested on: Pixel 3a Emulator
-✅ Android OS Version: Android 12 (API Level 31) 
-✅ Android Studio Version: Flamingo | 2023.1.1   
-
+- **Tested on:** Pixel 3a Emulator
+- **Android OS Version:** Android 14 (API Level 34)
+- **Android Studio Version:** Giraffe |  2022.3.1 Patch 2
+- 
 ---
 
 ## Installation & Setup
